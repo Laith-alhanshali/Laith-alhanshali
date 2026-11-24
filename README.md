@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Laith 👋
 
-<!--
-**Laith-alhanshali/Laith-alhanshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at West University of Timișoara (graduating 2027),
+focused on backend and AI development.
 
-Here are some ideas to get you started:
+**Currently:** building DocuTrace, a RAG and multi-agent workbench, and
+working on my BSc thesis on agentic software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+- **[AutoMinutes](https://github.com/AdiWeakAuras/AutoMinutes)**: built during my IBM summer practice (Spring Boot, Angular, PostgreSQL)
+- **[DocuTrace](https://github.com/Laith-alhanshali/docutrace)**: RAG question answering with a JADE multi-agent pipeline (Java, Spring Boot, Angular, Ollama)
+- **[Task Gamifying Application](https://github.com/Laith-alhanshali/gamifying-tasks)**
+- **[Learning Management System](https://github.com/Laith-alhanshali/Learning-Management-System-LMS)**
+
+**Stack:** Python, Java, TypeScript, Spring Boot, Angular, FastAPI, PostgreSQL, Docker
+
+📍 Timișoara, Romania · [LinkedIn](https://www.linkedin.com/in/laith-fateh-al-hanshali)
